@@ -1,0 +1,63 @@
+.navbar-default	.navbar-brand{
+	color: #B73126;
+	font-weight: 900;
+	font-size: 4em;
+	margin-bottom: 5px;
+}
+
+.row{
+	margin-bottom: 25px;
+}
+
+#pokedex{
+	height: 545px;
+	background-image: url(/assets/pokedex1.gif);
+	background-repeat: no-repeat;
+	margin-left: 25px;
+}
+
+#pokedex img{
+	height: 180px;
+	width: 265px;
+	margin: 148px 0px 0px 52px;
+}
+
+img, #text{
+	display: inline-block;
+	vertical-align: top;
+}
+
+#text{
+	border: 1px solid black;
+	margin: 163px 0px 0px 128px;
+	padding: 2px;
+	width: 240px;
+	height: 115px;
+	font-size: 1.1em;
+}
+
+.form-control, .btn{
+	display: inline;
+	vertical-align: top;
+}
+
+.form-control{
+	margin:0px 10px 0px 800px;
+	width: 100px;
+}
+
+.similar img{
+	border: 1px solid black;
+	border-radius: 15px;
+	width: 200px;
+	height: 150px;
+}
+
+.similar{
+	width: 200px;
+	height: 175px;
+	display: inline-block;
+	text-align: center;
+	font-weight: 900;
+	margin-right: 20px;
+}
